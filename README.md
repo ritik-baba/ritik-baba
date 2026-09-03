@@ -2,7 +2,7 @@
 
 ### 🤖 AI & Automation Engineer | 🚀 Full-Stack Architect
 
-I architect intelligent agents and scalable systems that automate complex business workflows. Currently building the future of AI infrastructure at **Plaid.inc Japan** (previously Floworks).
+I architect intelligent agents and scalable systems that automate complex business workflows. Currently building the future of AI infrastructure at **Tech Japan** (previously Floworks).
 
 ---
 
